@@ -1,0 +1,40 @@
+			Max	Dep	Ident(voice)	Agree(voice)	*CC	*Complex Onset	*Complex Coda	Align-L	Align-R	*[+consonantal, -voice]	Nocoda	Onset
+			Max	Dep	Ident(voice)	Agree(voice)	*CC	*Complex Onset	*Complex Coda	Align-L	Align-R	*[+consonantal, -voice]	Nocoda	Onset
+at	at|na	1	0	0	0	0	0	0	0	0	0	1	1	1
+	a|na		1	0	0	0	0	0	0	0	1	0	0	1
+	ta|na		1	1	0	0	0	0	0	1	1	1	0	0
+	tat|na		0	1	0	0	0	0	0	1	0	2	1	0
+	æt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	et|na		0	0	0	0	0	0	0	1	0	1	1	1
+	aʔ|na		0	0	0	0	0	0	0	0	1	1	1	1
+	at͡ɬ|na		0	0	0	0	0	0	0	0	1	1	1	1
+	ad|na		0	0	1	0	0	0	0	0	1	0	1	1
+	ak̠|na		0	0	0	0	0	0	0	0	1	1	1	1
+	at̪͡θ|na		0	0	0	0	0	0	0	0	1	1	1	1
+	aət|na		0	1	0	0	0	0	0	0	0	1	1	1
+	ɑːt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	ak|na		0	0	0	0	0	0	0	0	1	1	1	1
+	atə|na		0	1	0	0	0	0	0	0	1	1	0	1
+	ak+|na		0	0	0	0	0	0	0	0	1	1	1	1
+	ɛt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	atʔ|na		0	1	0	0	1	0	1	0	1	2	1	1
+	ap|na		0	0	0	0	0	0	0	0	1	1	1	1
+	ət|na		0	0	0	0	0	0	0	1	0	1	1	1
+	ɤt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	aq|na		0	0	0	0	0	0	0	0	1	1	1	1
+	aʈ|na		0	0	0	0	0	0	0	0	1	1	1	1
+	aɖ|na		0	0	1	0	0	0	0	0	1	0	1	1
+	əat|na		0	1	0	0	0	0	0	1	0	1	1	1
+	ap͡t|na		0	0	0	0	0	0	0	0	1	1	1	1
+	ɑt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	æːt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	ʔat|na		0	1	0	0	0	0	0	1	0	2	1	0
+	əːt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	t|na		1	0	0	0	0	0	0	1	0	1	1	0
+	ʌt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	ɘt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	at͡s|na		0	0	0	0	0	0	0	0	1	1	1	1
+	aʔt|na		0	1	0	0	1	0	1	0	0	2	1	1
+	ɨt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	ɘːt|na		0	0	0	0	0	0	0	1	0	1	1	1
+	aːt|na		0	0	0	0	0	0	0	1	0	1	1	1

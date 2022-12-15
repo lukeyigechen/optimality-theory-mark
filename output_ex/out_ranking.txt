@@ -1,0 +1,4 @@
+item 0: {Ident(high), Nocoda, Onset, Agree(LABIAL), *Complex Coda, Align-R} > {Max, Dep, Ident(voice), *[+consonantal, -voice], *[+consonantal, +CORONAL], Agree(front), *CC, *Complex Onset, Align-L}
+item 1: {Max, Dep, Ident(voice), Agree(voice), *CC, *Complex Onset, *Complex Coda, Align-L, Align-R} > {*[+consonantal, -voice], Nocoda, Onset}
+item 2: {Max, Ident(voice), Nocoda, Onset, Agree(voice), *CC, *Complex Onset, *Complex Coda, Align-L, Align-R} > {Dep, *[+consonantal, -voice]}
+item 3: {Max, Dep, Ident(voice), Ident(high), Onset, Agree(LABIAL), *Complex Onset, *Complex Coda, Align-L, Align-R, Ft-Bin, Trochaic, Align-Ft-L, Align-Ft-R, Leftmost, Nonfinality-syl-stress} > {*[+consonantal, -voice], Nocoda, Agree(voice), *CC, Parse, Rightmost, WSP, Nonfinality-syl-footing} > {Iambic, All-Ft-Right} > {All-Ft-Left}

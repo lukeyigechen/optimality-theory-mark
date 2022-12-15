@@ -1,0 +1,53 @@
+# This is an example file of the input of OTMark
+# item_id: ID of the item, corresponding to the output files
+# ur: underlying representation
+# sr: surface representation
+# candidates: other candidates that are not sr
+# generate: automatically generate candidates to challenge sr, default = False
+# sr_stress: the stress and parsing patterns of sr, default is empty (i.e., script won't check stress-related constraints)
+# p = primary stress, s = secondary stress, n = no stress, () = parsed foot
+# candidates_stress: the stress and parsing patterns of candidates, the order needs to correspond to candidates
+# ident_feat: the ident feature to be checked; e.g. voice -> Ident(voice)
+# agree_feat: the agree feature to be checked; e.g. voice|syllabic:- -> Agree(voice), only check consonants
+# mark_feat: the marked feature set to be checked; e.g. consonantal:+,voice:- -> *[+consonantal, -voice]
+# Except for item_id, all other entries are separated by tab (i.e., can be open as .tsv)
+
+
+item_id = 0
+ur	at.ka.ʔi.tsa.tɡeo
+sr	ka.ka.ʔi.tsa.dɡeo
+candidates	oooad.ka.ʔe.t͡sa.dfao	at.ka.ʔi.tsa.tɡeo	ha.ha.ha.ha.ha.ha.ha
+generate	True
+ident_feat	voice	high
+agree_feat	LABIAL|syllabic:-	front|syllabic:+
+mark_feat	consonantal:+,voice:-	consonantal:+,CORONAL:+
+
+item_id = 1
+ur	at
+sr	at
+candidates	a	ta	tat
+generate	True
+ident_feat	voice
+agree_feat	voice|syllabic:-
+mark_feat	consonantal:+,voice:-
+
+item_id = 2
+ur	kam.n.man.n
+sr	kam.nɨ.ma.nɨn
+candidates	kamn.mann	ka.mɨn.ma.nɨn	kam.nɨ.man.nɨ	kam.nɨn.ma.nɨn
+candidates_stress	na	na	na	na
+ident_feat	voice
+agree_feat	voice|syllabic:-
+mark_feat	consonantal:+,voice:-
+generate	True
+
+item_id = 3
+ur	ŋan.ki.ɽi.ki.rim.pa.ji
+sr	ŋan.ki.ɽi.ki.rim.pa.ji
+sr_stress	(p.n).n.(s.n).(s.n)
+candidates	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.paː.ji
+candidates_stress	(p.n).(s.n).n.(s.n)	(p.n).(s.n).(s.n).n	(p.n).n.n.n.(s.n)	(p.n).n.n.n.n.n	n.(p.n).(s.n).(s.n)	(p.n).(s.n).(s.n).(s)	(n.p).n.(n.s).(n.s)
+generate	True
+ident_feat	voice	high
+agree_feat	LABIAL|syllabic:-	voice|syllabic:-
+mark_feat	consonantal:+,voice:-

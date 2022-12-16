@@ -1,4 +1,4 @@
-# OTMark: Automatic Violation Assignment and Constraint Ranking Based on Optimality Theory
+# The OTMark Script
 
 ## Setup
 

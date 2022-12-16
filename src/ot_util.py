@@ -13,6 +13,17 @@ def gen_long_vowels(dict_feat_cons):
     return dict_feat_cons
 
 
+def gen_aspirated_consonants(dict_feat_cons):
+    #print(len(dict_feat_cons.keys()))
+    dict_feat_cons_copy = copy.deepcopy(dict_feat_cons)
+    for phone, dict_feats_single_phone in dict_feat_cons_copy.items():
+        if dict_feats_single_phone['sonorant'] == '-' and dict_feats_single_phone['spread_gl'] == '-':
+            dict_feat_cons[phone + 'ʰ'] = dict_feats_single_phone
+            dict_feat_cons[phone + 'ʰ']['spread_gl'] = '+'
+    #print(len(dict_feat_cons.keys()))
+    return dict_feat_cons
+
+
 def read_feat_table(in_dir):
     df_feat_cons = pd.read_csv(in_dir, encoding='utf-8').T
     df_feat_cons.rename(columns=df_feat_cons.iloc[0], inplace=True)
@@ -20,8 +31,9 @@ def read_feat_table(in_dir):
     #print(df_feat_cons.head())
     dict_feat_cons = df_feat_cons.to_dict()
 
-    # generate long vowels
+    # generate long vowels and aspirated consonants
     dict_feat_cons = gen_long_vowels(dict_feat_cons)
+    dict_feat_cons = gen_aspirated_consonants(dict_feat_cons)
 
     #print(dict_feat_cons)
     set_cons = set(dict_feat_cons.keys())
@@ -137,8 +149,14 @@ def marks_to_readable_input(ur, sr, dict_sr_out, dict_dict_cand_out, constraint_
     str_out += 'SR\t' + sr + '\t' + '\t'.join(list_sr_tmp) + '\n'
     for k, v in dict_dict_cand_out.items():
         list_cand_tmp = []
+        is_violated = False
         for constraint in constraint_list:
-            list_cand_tmp.append(str(v[constraint]))
+            sr_num_violate = dict_sr_out[constraint]
+            if not is_violated and sr_num_violate < v[constraint]:
+                list_cand_tmp.append(str(v[constraint]) + '!')
+                is_violated = True
+            else:
+                list_cand_tmp.append(str(v[constraint]))
         k = k.replace('|', '\t')
         str_out += '\t' + k + '\t' + '\t'.join(list_cand_tmp) + '\n'
     return str_out

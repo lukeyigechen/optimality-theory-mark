@@ -114,8 +114,14 @@ def process_single(item_in, dict_phone_encode, dict_phone_decode, dict_feat, out
     #print(dict_sr_out)
 
     # add generated cands
+    syllable_sr, nodot_sr = proc_candidate(sr, dict_phone_encode)
     if item_in.gen_cand:
-        set_gen_cands = rand_cand(syllable_ur, dict_phone_decode, dict_feat)
+        set_gen_cands_ur = rand_cand(syllable_ur, dict_phone_decode, dict_feat)
+        set_gen_cands_sr = rand_cand(syllable_sr, dict_phone_decode, dict_feat)
+        set_gen_cands = set_gen_cands_ur.union(set_gen_cands_sr)
+        if sr in set_gen_cands:
+            set_gen_cands.remove(sr)
+            #print('sr in set_gen_cands')
         cand_list.extend(list(set_gen_cands))
         cand_stress_encode_list.extend([sr_stress_encode] * len(set_gen_cands))
 

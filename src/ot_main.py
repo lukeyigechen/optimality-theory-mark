@@ -31,7 +31,7 @@ def assign_violate(str_sr, dict_phone_encode, dict_phone_decode, nodot_ur, sylla
         dict_output['*[' + ', '.join(list_name_mark) + ']'] = mark_feat_num
 
     nocoda_num = otcons.cons_nocoda(syllable_sr, dict_phone_decode, dict_feat)
-    dict_output['Nocoda'] = nocoda_num
+    dict_output['NoCoda'] = nocoda_num
 
     onset_num = otcons.cons_onset(syllable_sr, dict_phone_decode, dict_feat)
     dict_output['Onset'] = onset_num

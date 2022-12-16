@@ -285,7 +285,7 @@ def cons_align_morph(syllable_ur, syllable_sr, left_right):
 def cons_ft_bin(list_syl_stress):
     num_violate = 0
     for syl_info in list_syl_stress:
-        if len(syl_info[0]) == 1 and syl_info[-1]:
+        if len(syl_info[0]) != 2 and syl_info[-1]:
             num_violate += 1
     return num_violate
 

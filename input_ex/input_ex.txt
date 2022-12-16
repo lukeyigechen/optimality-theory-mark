@@ -18,30 +18,22 @@ ur	at.ka.ʔi.tsa.tɡeo
 sr	ka.ka.ʔi.tsa.dɡeo
 candidates	oooad.ka.ʔe.t͡sa.dfao	at.ka.ʔi.tsa.tɡeo	ha.ha.ha.ha.ha.ha.ha
 generate	True
-ident_feat	voice	high
+ident_feat	voice	high	spread_gl	long	low	front	back
 agree_feat	LABIAL|syllabic:-	front|syllabic:+
 mark_feat	consonantal:+,voice:-	consonantal:+,CORONAL:+
+
 
 item_id = 1
 ur	at
 sr	at
-#candidates	a	ta	tat
+candidates	a	ta	tat
 generate	True
 ident_feat	voice
 agree_feat	voice|syllabic:-
 mark_feat	consonantal:+,voice:-
+
 
 item_id = 2
-ur	kam.n.man.n
-sr	kam.nɨ.ma.nɨn
-candidates	kamn.mann	ka.mɨn.ma.nɨn	kam.nɨ.man.nɨ	kam.nɨn.ma.nɨn
-candidates_stress	na	na	na	na
-ident_feat	voice
-agree_feat	voice|syllabic:-
-mark_feat	consonantal:+,voice:-
-generate	True
-
-item_id = 3
 ur	ŋan.ki.ɽi.ki.rim.pa.ji
 sr	ŋan.ki.ɽi.ki.rim.pa.ji
 sr_stress	(p.n).n.(s.n).(s.n)
@@ -53,7 +45,7 @@ agree_feat	LABIAL|syllabic:-	voice|syllabic:-
 mark_feat	consonantal:+,voice:-
 
 
-item_id = 4
+item_id = 3
 ur	nan.ki.ri.ki.rim.pa.ji
 sr	nan.ki.ri.ki.rim.pa.ji
 sr_stress	(p.n).n.(s.n).(s.n)
@@ -63,3 +55,14 @@ generate	True
 ident_feat	voice	high
 agree_feat	LABIAL|syllabic:-	voice|syllabic:-
 mark_feat	consonantal:+,voice:-
+
+
+item_id = 4
+ur	kam.n.man.n
+sr	kam.nɨ.ma.nɨn
+candidates	kamn.mann	ka.mɨn.ma.nɨn	kam.nɨ.man.nɨ	kam.nɨn.ma.nɨn
+candidates_stress	na	na	na	na
+ident_feat	voice
+agree_feat	voice|syllabic:-
+mark_feat	consonantal:+,voice:-
+generate	True

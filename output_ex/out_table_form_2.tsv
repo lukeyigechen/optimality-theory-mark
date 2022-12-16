@@ -1,130 +1,309 @@
-UR	kam.n.man.n	Stress	Max	Ident(voice)	Nocoda	Onset	Agree(voice)	*CC	*Complex Onset	*Complex Coda	Align-L	Align-R	Dep	*[+consonantal, -voice]
-SR	kam.nɨ.ma.nɨn	na	0	0	2	0	0	1	0	0	0	0	2	1
-	kamn.mann	na	0	0	2	0	0	3	0	2	0	0	0	1
-	ka.mɨn.ma.nɨn	na	0	0	2	0	0	1	0	0	0	0	2	1
-	kam.nɨ.man.nɨ	na	0	0	2	0	0	2	0	0	0	1	2	1
-	kam.nɨn.ma.nɨn	na	0	0	3	0	0	2	0	0	0	0	3	1
-	kam.n.mɘːn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.ŋ.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	xam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	g͡bam.n.man.n	na	0	1	4	0	0	3	0	0	1	0	0	0
-	ɢam.n.man.n	na	0	1	4	0	0	3	0	0	1	0	0	0
-	tam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kaɳ.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.man.d	na	0	0	4	0	0	3	0	0	0	1	0	1
-	ɡ+am.n.man.n	na	0	1	4	0	0	3	0	0	1	0	0	0
-	kam.n.ŋ˗an.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	ʈam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kam.m.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kɤm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.manə.n	na	0	0	3	0	0	2	0	0	0	0	1	1
-	kaɴ.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.maɳ.n	na	1	0	4	0	0	3	0	0	0	0	1	1
-	k+͡x+am.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kam.n.man.nʔ	na	0	0	4	0	1	4	1	1	0	1	1	2
-	ʔkam.n.man.n	na	0	0	4	0	0	4	1	0	1	0	1	2
-	ka.n.man.n	na	1	0	3	0	0	2	0	0	0	0	0	1
-	kam.n.ban.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kʌm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kɘːm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.man.ŋ+	na	0	0	4	0	0	3	0	0	0	1	0	1
-	kam.n.man.m	na	0	0	4	0	0	3	0	0	0	1	0	1
-	kaəm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	1	1
-	kam.n.mæn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kɛm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	am.n.man.n	na	1	0	4	1	0	3	0	0	1	0	0	0
-	kəm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.mam.n	na	1	0	4	0	0	3	0	0	0	0	1	1
-	kaʔm.n.man.n	na	0	0	4	0	1	4	0	1	0	0	1	2
-	kan.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	cam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	k͡pam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kam.n.ŋan.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.b͡βan.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.ʔn.man.n	na	0	0	4	0	2	4	1	1	0	0	1	2
-	ɉam.n.man.n	na	0	1	4	0	0	3	0	0	1	0	0	0
-	kam.n.mad.n	na	1	0	4	0	0	3	0	0	0	0	1	1
-	kam.n.mɑːn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	ɡ+͡ɣ+am.n.man.n	na	0	1	4	0	0	3	0	0	1	0	0	0
-	kam.ɳ.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	k̠͡x̠am.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kam.n.man.ŋ	na	0	0	4	0	0	3	0	0	0	1	0	1
-	kam.n.ŋ+an.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.ɴan.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	əkam.n.man.n	na	0	0	4	1	0	3	0	0	1	0	1	1
-	kam.n.maːn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	ɡ̠am.n.man.n	na	0	1	4	0	0	3	0	0	1	0	0	0
-	kaŋ+.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.man.n	na	1	0	3	0	0	2	0	0	0	0	0	1
-	kamə.n.man.n	na	0	0	3	0	0	2	0	0	0	0	1	1
-	kam.n.əman.n	na	0	0	4	1	0	2	0	0	0	0	1	1
-	kam.n.mən.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.nʔ.man.n	na	0	0	4	0	2	4	1	1	0	0	1	2
-	kam.n.mɑn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kaŋ.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.man	na	1	0	3	0	0	2	0	0	0	0	0	1
-	q͡χam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kam.n.man.ɴ	na	0	0	4	0	0	3	0	0	0	1	0	1
-	kam.n.məːn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.mæːn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.maʔn.n	na	0	0	4	0	1	4	0	1	0	0	1	2
-	kæm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.mʌn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	x̠am.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kam.n.ma.n	na	1	0	3	0	0	2	0	0	0	0	0	1
-	kam.ŋ+.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.ɱan.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.mn.n	na	1	0	4	0	0	4	1	1	0	0	0	1
-	kam.n.mʔan.n	na	0	0	4	0	1	4	1	0	0	0	1	2
-	kaŋ˗.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kab.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	pam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kam.d.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kaɱ.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.ŋ˗.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	t͡ɕam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kam.n.nan.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.man.ən	na	0	0	4	1	0	2	0	0	0	0	1	1
-	kab͡β.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kɨm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	ɡ̠̠͡ɣ̠am.n.man.n	na	0	1	4	0	0	3	0	0	1	0	0	0
-	kam.n.mɤn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.maɴ.n	na	1	0	4	0	0	3	0	0	0	0	1	1
-	kam.n.an.n	na	1	0	4	1	0	2	0	0	0	0	0	1
-	kam.n.man.nə	na	0	0	3	0	0	3	0	0	0	1	1	1
-	kəːm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.ən.man.n	na	0	0	4	1	0	2	0	0	0	0	1	1
-	kam.n.man.ŋ˗	na	0	0	4	0	0	3	0	0	0	1	0	1
-	kam.nə.man.n	na	0	0	3	0	0	2	0	0	0	0	1	1
-	kɘm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.məan.n	na	0	0	4	0	0	3	0	0	0	0	1	1
-	kʔam.n.man.n	na	0	0	4	0	0	4	1	0	0	0	1	2
-	kamʔ.n.man.n	na	0	0	4	0	2	4	0	1	0	0	1	2
-	ɡ͡ɣam.n.man.n	na	0	1	4	0	0	3	0	0	1	0	0	0
-	km.n.man.n	na	1	0	4	0	1	4	1	1	0	0	0	1
-	kam.n.mɛn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.mɘn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.maən.n	na	0	0	4	0	0	3	0	0	0	0	1	1
-	ʔam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	x+am.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kaːm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.ʔman.n	na	0	0	4	0	2	4	1	0	0	0	1	2
-	k͡xam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kem.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	qam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kam.n.man.ʔn	na	0	0	4	0	2	4	1	1	0	0	1	2
-	kəam.n.man.n	na	0	0	4	0	0	3	0	0	0	0	1	1
-	c͡çam.n.man.n	na	0	0	4	0	0	3	0	0	1	0	0	1
-	kɑːm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.man.ɳ	na	0	0	4	0	0	3	0	0	0	1	0	1
-	kam.n.men.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.manʔ.n	na	0	0	4	0	2	4	0	1	0	0	1	2
-	kam.n.ɳan.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.maŋ˗.n	na	1	0	4	0	0	3	0	0	0	0	1	1
-	ɡam.n.man.n	na	0	1	4	0	0	3	0	0	1	0	0	0
-	kæːm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kɑm.n.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.ɴ.man.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.maŋ.n	na	1	0	4	0	0	3	0	0	0	0	1	1
-	kam.n.mɨn.n	na	0	0	4	0	0	3	0	0	0	0	0	1
-	kam.n.maŋ+.n	na	1	0	4	0	0	3	0	0	0	0	1	1
+UR	ŋan.ki.ɽi.ki.rim.pa.ji	Stress	Max	Dep	Ident(voice)	Ident(high)	Onset	Agree(LABIAL)	*Complex Onset	*Complex Coda	Align-L	Align-R	Ft-Bin	Trochaic	Align-Ft-L	Align-Ft-R	Leftmost	Nonfinality-syl-stress	*[+consonantal, -voice]	Nocoda	Agree(voice)	*CC	Parse	Rightmost	WSP	Nonfinality-syl-footing	Iambic	All-Ft-Right	All-Ft-Left
+SR	ŋan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ji	(p.n).(s.n).n.(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	8!	7
+	ŋan.ki.ɽi.ki.rim.pa.ji	(p.n).(s.n).(s.n).n	0	0	0	0	0	0	0	0	0	0	0	0	0	1!	0	0	3	2	2	2	1	5	0	0	3	9	6
+	ŋan.ki.ɽi.ki.rim.pa.ji	(p.n).n.n.n.(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	3!	5	1	1	2	5	5
+	ŋan.ki.ɽi.ki.rim.pa.ji	(p.n).n.n.n.n.n	0	0	0	0	0	0	0	0	0	0	0	0	0	5!	0	0	3	2	2	2	5	5	1	0	1	5	0
+	ŋan.ki.ɽi.ki.rim.pa.ji	n.(p.n).(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	1!	0	1	0	3	2	2	2	1	4	2	1	3	6	9
+	ŋan.ki.ɽi.ki.rim.pa.ji	(p.n).(s.n).(s.n).(s)	0	0	0	0	0	0	0	0	0	0	1!	0	0	0	0	1	3	2	2	2	0	5	0	1	3	9	12
+	ŋan.ki.ɽi.ki.rim.paː.ji	(n.p).n.(n.s).(n.s)	0	0	0	0	0	0	0	0	0	0	0	3!	0	0	0	1	3	2	2	2	1	5	2	1	0	7	8
+	ŋan.ki.ɽi.k̠ʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽɛ.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kɪː.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽɨ.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.g͡bi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	1	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pəː.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ɡʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽ.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.b͡βa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.ɉi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.qi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽy.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽʔi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ɥi	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.qa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.qʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɭi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.k͡pʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ɡ+i.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.kɛ.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.k̠͡x̠i.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kɯ.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kɘ.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rm.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	3	2	2	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rin.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.ta.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rimə.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	1	1	1	5	1	1	3	7	8
+	ŋan.c͡çi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.x+i.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.ʙim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jɘ	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	1	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pʔa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	1	1	0	0	0	0	0	0	0	0	0	4	2	2	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jɰ	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	1!	1	0	1	0	0	0	0	0	0	3	3	2	3	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.paə.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.pi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ɰ̠i	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ɡ͡ɣi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋɤn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jiə	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.kəi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pɘ.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.riɳ.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pɛ.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ʔki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	2	3	1	5	1	1	3	7	8
+	ŋaɳ.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pɑː.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɡ+i.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k+ʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.qʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jɛ	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	1	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pe.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jɪ	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.k̠͡x̠ʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k̠͡x̠ʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ɳan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kæ.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	an.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ʟi	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jɪː	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋen.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	əŋan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	1	0	0	0	1	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɡ͡ɣi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽɪː.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2!	1	3	7	8
+	ŋan.ki.ɽi.c͡çi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.riːm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.je	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	1	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋanʔ.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	2	2	3	1	5	1	1	3	7	8
+	ɡ̠̠͡ɣ̠an.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽɯ.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jɨː	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.ʈi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rib͡β.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kiʔ.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.p.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3	3	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽɪ.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jʔi	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ŋɑːn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.əki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	1	1	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jɨ	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.p͡ɸa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rʔim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ɡ+͡ɣ+an.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋaŋ+.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ei	(p.n).n.(s.n).(s.n)	0	0	0	1!	1	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.ki.ɻi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.t͡ɕi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.p͡ta.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋəːn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.p͡ɸʰa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋaɴ.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pæː.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋaʔn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.ɾim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.paʔ.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	3	3	1	5	1	1	3	7	8
+	man.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.k͡pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rəim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.im.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɉi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋʔan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.g͡bi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋam.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k͡xi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k͡pi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.paː.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kiː.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ʔi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽiː.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2!	1	3	7	8
+	ŋan.ki.ɽi.qi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽiə.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋəan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.k͡pi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ʔŋan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	1	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.t͡ɕi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	nan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pɑ.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kɨ.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pʰa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.ʔpa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	2	1	0	0	0	0	0	0	0	0	0	4	2	2	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pə.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɺi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ɡ̠ʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.k+ʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rɛm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kɘ.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.k͡xi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽɘ.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.ɸa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ke.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kɛ.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rem.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.əji	(p.n).n.(s.n).(s.n)	0	1!	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.əki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ɡ̠i.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.bʰa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	3	2	2	3	1	5	1	1	3	7	8
+	ŋan.ɢi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ɴan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rjm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	1	1	0	0	0	0	0	0	0	0	3	2	2	4	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.b͡da.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ii	(p.n).n.(s.n).(s.n)	1!	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.ri.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	1	1	1	5	0	1	3	7	8
+	ŋan.ki.ɽi.x̠i.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ʔji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ti.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.lim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k+͡x+i.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋa.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	1	1	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.riŋ.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kɰ.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	1!	1	0	0	0	0	0	0	0	0	3	3	3	4	1	5	1	1	3	7	8
+	ŋan.ki.ɽəi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋɛn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ɡ̠an.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.keː.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋʌn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɡ+͡ɣ+i.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.ʔa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ky.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ʔki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	2	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.k+a.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.q͡χi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.ʀim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kiə.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.ki.ɽe.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.p͡fa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.iːi	(p.n).n.(s.n).(s.n)	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ɡ+an.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋaŋ.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jæ	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	1	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɡ̠ʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.p͡tʰa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ɡ̠̠͡ɣ̠i.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.i	(p.n).n.(s.n).(s.n)	1!	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ɨi	(p.n).n.(s.n).(s.n)	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.k+͡x+ʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.x̠i.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rɨm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽeː.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.riɱ.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k.rim.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k̠͡x̠i.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jɯ	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɾi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kɨː.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2!	1	3	7	8
+	ɲan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kæ.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kəi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.kiə.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kj.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	1!	1	0	0	0	0	0	0	0	0	3	3	3	4	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pəa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.k+͡x+i.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kɪ.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.i.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	2	1	1	1	5	1	1	3	7	8
+	ŋɘn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɢi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽj.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	1!	1	0	0	0	0	0	0	0	0	3	3	3	4	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.rɪːm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kɯ.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽɨː.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2!	1	3	7	8
+	ŋan.ɡ+ʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.riʔm.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	1	0	1	0	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ŋən.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.ərim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rɯm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ɡ+͡ɣ+i.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋɑn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kj.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	1!	1	0	0	0	0	0	0	0	0	3	3	3	4	1	5	1	1	3	7	8
+	ŋan.ki.əɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋaːn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɡi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.x+i.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jiː	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋɨn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k͡pʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋanə.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	1	1	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ɪi	(p.n).n.(s.n).(s.n)	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pɘː.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kiː.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2!	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jeː	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	1	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.pi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋæːn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.a.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	2	1	1	1	5	1	1	3	7	8
+	ŋan.ki.ɽæ.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋæn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽɰ.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	1!	1	0	0	0	0	0	0	0	0	3	3	3	4	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.ɻim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rɰm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	1	1	0	0	0	0	0	0	0	0	3	2	2	4	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pæ.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋaŋ˗.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋad.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.ɹi	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.ka.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ɡi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ke.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rib.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.k͡xʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.ʈa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɡ̠i.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rimʔ.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	2	0	1	0	0	0	0	0	0	0	0	4	2	2	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.ræm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jiʔ	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4	3	2	2	1	5	2	1	3	7	8
+	ŋɘːn.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.keː.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɡ̠̠͡ɣ̠i.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pɨ.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k͡xʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ʔɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɡʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.əpa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	1	1	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kʔi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	2	3	1	5	1	1	3	7	8
+	ɡ͡ɣan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rɘm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.q͡χi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pɤ.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rɪm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.k+͡x+ʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ky.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rym.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.ba.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.cʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.j	(p.n).n.(s.n).(s.n)	1!	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	3	2	2	1	5	2	1	3	7	8
+	ɡan.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ti.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kɪ.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.k̠ʰi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.xi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.ʔrim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	3	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.riŋ˗.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.riɴ.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rɨːm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jj	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	1!	1	0	1	0	0	0	0	0	0	3	3	2	3	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.reːm.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ci.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.k.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	1	5	2	1	3	7	8
+	ŋan.ʔi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kɪː.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2!	1	3	7	8
+	ŋan.kɨ.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pʌ.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kɰ.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	1!	1	0	0	0	0	0	0	0	0	3	3	3	4	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.ki.riŋ+.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.kʔi.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	2	2	3	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.cʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.kɨː.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ci.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.g͡ba.ji	(p.n).n.(s.n).(s.n)	0	0	1!	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽiʔ.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	2	3	1	5	2	1	3	7	8
+	ŋan.ki.i.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ɡ+ʰi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ʈi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jəi	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	2	1	3	7	8
+	ŋan.kiʔ.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	3	3	1	5	2	1	3	7	8
+	ŋan.ki.ɽi.xi.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.k͡pʰa.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.k̠a.ji	(p.n).n.(s.n).(s.n)	0	0	0	1!	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋaən.ki.ɽi.ki.rim.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.i.rim.pa.ji	(p.n).n.(s.n).(s.n)	1!	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.riəm.pa.ji	(p.n).n.(s.n).(s.n)	0	1!	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8
+	ŋan.ki.ɽi.ki.rim.pa.jy	(p.n).n.(s.n).(s.n)	0	0	0	0	0	0	0	0	0	1!	0	0	0	0	0	0	3	2	2	2	1	5	1	1	3	7	8

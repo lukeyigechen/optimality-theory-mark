@@ -1,4 +1,7 @@
-item 0: {Ident(high), Nocoda, Onset, Agree(LABIAL), *Complex Coda, Align-R} > {Max, Dep, Ident(voice), *[+consonantal, -voice], *[+consonantal, +CORONAL], Agree(front), *CC, *Complex Onset, Align-L}
-item 1: {Max, Dep, Ident(voice), Agree(voice), *CC, *Complex Onset, *Complex Coda, Align-L, Align-R} > {*[+consonantal, -voice], Nocoda, Onset}
-item 2: {Max, Ident(voice), Nocoda, Onset, Agree(voice), *CC, *Complex Onset, *Complex Coda, Align-L, Align-R} > {Dep, *[+consonantal, -voice]}
-item 3: {Max, Dep, Ident(voice), Ident(high), Onset, Agree(LABIAL), *Complex Onset, *Complex Coda, Align-L, Align-R, Ft-Bin, Trochaic, Align-Ft-L, Align-Ft-R, Leftmost, Nonfinality-syl-stress} > {*[+consonantal, -voice], Nocoda, Agree(voice), *CC, Parse, Rightmost, WSP, Nonfinality-syl-footing} > {Iambic, All-Ft-Right} > {All-Ft-Left}
+Item 0: {Ident(high), Ident(spread_gl), Ident(long), Ident(low), Ident(front), Ident(back), Nocoda, Onset, Agree(LABIAL), *Complex Coda, Align-R} > {Dep, Align-L} > {Max, Ident(voice), *[+consonantal, -voice], *[+consonantal, +CORONAL], Agree(front), *CC, *Complex Onset}
+Item 0 is successfully challenged by other candidates. Please consider adding other constraints.
+Item 1: {Max, Dep, Ident(voice), Agree(voice), *CC, *Complex Onset, *Complex Coda, Align-L, Align-R} > {*[+consonantal, -voice], Nocoda, Onset}
+Item 2: {Max, Dep, Ident(voice), Ident(high), Onset, Agree(LABIAL), *Complex Onset, *Complex Coda, Align-L, Align-R, Ft-Bin, Trochaic, Align-Ft-L, Align-Ft-R, Leftmost, Nonfinality-syl-stress} > {*[+consonantal, -voice], Nocoda, Agree(voice), *CC, Parse, Rightmost, WSP, Nonfinality-syl-footing} > {Iambic, All-Ft-Right} > {All-Ft-Left}
+Item 3: {Max, Dep, Ident(voice), Ident(high), Onset, Agree(LABIAL), *Complex Onset, *Complex Coda, Align-L, Align-R, Ft-Bin, Parse, Trochaic, Align-Ft-L, Align-Ft-R, Leftmost, Rightmost, Nonfinality-syl-stress} > {*[+consonantal, -voice], Nocoda, Agree(voice), *CC, Iambic, WSP, Nonfinality-syl-footing, All-Ft-Right} > {All-Ft-Left}
+Item 4: {Max, Ident(voice), Onset, Agree(voice), *Complex Onset, *Complex Coda, Align-L, Align-R} > {*[+consonantal, -voice]} > {Dep, Nocoda, *CC}
+Item 4 is successfully challenged by other candidates. Please consider adding other constraints.

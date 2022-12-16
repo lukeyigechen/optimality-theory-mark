@@ -1,257 +1,605 @@
-			Ident(high)	Nocoda	Onset	Agree(LABIAL)	*Complex Coda	Align-R	Max	Dep	Ident(voice)	*[+consonantal, -voice]	*[+consonantal, +CORONAL]	Agree(front)	*CC	*Complex Onset	Align-L
-			Ident(high)	Nocoda	Onset	Agree(LABIAL)	*Complex Coda	Align-R	Max	Dep	Ident(voice)	*[+consonantal, -voice]	*[+consonantal, +CORONAL]	Agree(front)	*CC	*Complex Onset	Align-L
-at.ka.ʔi.tsa.tɡeo	ka.ka.ʔi.tsa.dɡeo|na	1	0	0	0	0	0	0	1	1	1	5	3	1	2	2	1
-	oooad.ka.ʔe.t͡sa.dfao|na		2	1	1	1	0	0	1	3	3	4	3	0	2	1	1
-	at.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	ha.ha.ha.ha.ha.ha.ha|na		2	0	0	0	0	1	4	5	1	0	0	0	0	0	1
-	ak+.ka.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.tsa.dɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeʉ|na		1	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	æːt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	ak.ka.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.tʂa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.ʔtɡeo|na		0	1	1	0	0	0	0	1	0	7	4	1	4	2	0
-	at.ca.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	ɘt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.kɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.qa.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeɒ|na		0	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tŋ˗eo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	atʔ.ka.ʔi.tsa.tɡeo|na		0	1	1	0	1	0	0	1	0	7	4	1	4	2	0
-	at.ka.əʔi.tsa.tɡeo|na		0	1	2	0	0	0	0	1	0	6	4	1	3	2	0
-	et.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.tɡæo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡæːo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ʈa.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	at.ka.ʔi.tsaː.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	aʔ.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.kaʔ.ʔi.tsa.tɡeo|na		0	2	1	0	0	0	0	1	0	7	4	1	4	2	0
-	at.ka.ʔi.tsa.tɡɛːo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.t͡ɬɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.k+sa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	atə.ka.ʔi.tsa.tɡeo|na		0	0	1	0	0	0	0	1	0	6	4	1	2	2	0
-	at.ɡa.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔi.psa.tɡeo|na		0	1	1	1	0	0	0	0	0	6	3	1	3	2	0
-	at.ɡ͡ɣa.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	aɖ.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔi.tsɘ.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeuː|na		1	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.k̠ɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.tsɑ.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.q͡χa.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔɯ.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.t̪͡θɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.td͡ʑeo|na		0	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	at.ka.ʔi.txa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	ɤt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.tɡeoː|na		0	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔiə.tsa.tɡeo|na		0	1	1	0	0	0	0	1	0	6	4	2	3	2	0
-	at.ka.ʔi.tʔsa.tɡeo|na		0	1	1	0	0	0	0	1	0	7	4	1	4	2	0
-	ap͡t.ka.ʔi.tsa.tɡeo|na		0	1	1	1	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.ɖsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeɤ|na		0	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tħa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.kʌ.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	aːt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.tk+eo|na		0	1	1	0	0	0	0	0	1	7	4	1	3	2	0
-	at.ka.ti.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	at.ka.ʔi.tsa.tɡeəo|na		0	1	1	0	0	0	0	1	0	6	4	1	3	2	0
-	at.ka.ʔi.ətsa.tɡeo|na		0	1	2	0	0	0	0	1	0	6	4	2	3	1	0
-	at.ka.ʔi.tsa.tɉ͡ʝeo|na		0	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	at.ka.ʔʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	1	0	7	4	1	4	3	0
-	at.ka.ʔɘ.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsʔa.tɡeo|na		0	1	1	0	0	0	0	1	0	7	4	1	4	2	0
-	ɑːt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.tɡeɒː|na		0	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.k+ɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	ak̠.ka.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔæ.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeu|na		1	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tk+͡x+eo|na		0	1	1	0	0	0	0	0	1	7	4	1	3	2	0
-	at.ka.ʔi.tsæ.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	ɑt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.tk͡peo|na		0	1	1	1	0	0	0	0	1	7	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeɵː|na		0	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	aʔt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	1	0	0	1	0	7	4	1	4	2	0
-	at.kɘ.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tʃa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsəː.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɣ+eo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.k+͡x+a.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡɘo|na		0	1	1	0	0	0	0	0	0	6	4	0	3	2	0
-	at.ka.ʔ.tsa.tɡeo|na		0	2	1	0	0	0	1	0	0	6	4	1	4	2	0
-	at.k͡xa.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.ʔtsa.tɡeo|na		0	1	1	0	0	0	0	1	0	7	4	1	4	2	0
-	at.ka.ʔi.ts.tɡeo|na		0	2	1	0	1	0	1	0	0	6	4	1	4	2	0
-	at.ka.ʔi.tsa.ʔɡeo|na		0	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	ʔat.ka.ʔi.tsa.tɡeo|na		0	1	0	0	0	0	0	1	0	7	4	1	3	2	1
-	at.ka.ʔi.ksa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.ʔsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.sa.tɡeo|na		0	1	1	0	0	0	1	0	0	5	3	1	2	1	0
-	at.ka.ʔi.tsa.tɡʔeo|na		0	1	1	0	0	0	0	1	0	7	4	1	4	2	0
-	at.ka.ʔi.tsaʔ.tɡeo|na		0	2	1	0	0	0	0	1	0	7	4	1	4	2	0
-	at.ka.ʔi.tsæː.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.kɛ.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.təɡeo|na		0	1	1	0	0	0	0	1	0	6	4	1	2	1	0
-	at.ɢa.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.a.ʔi.tsa.tɡeo|na		0	1	2	0	0	0	1	0	0	5	4	1	2	2	0
-	at.t͡ɕa.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	at.ka.ʔi.dsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ɉa.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	5	1	3	2	0
-	at.ka.ʔi.tʈ͡ʂa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.xa.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.kæ.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ɡ+a.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔɨː.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tqeo|na		1	1	1	0	0	0	0	0	1	7	4	1	3	2	0
-	at.ka.ʔɰ.tsa.tɡeo|na		0	2	1	0	1	0	0	0	0	6	4	1	5	3	0
-	at.ka.ʔi.tsa.tɡio|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡ+͡ɣ+eo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeø|na		0	1	1	0	0	1	0	0	0	6	4	0	3	2	0
-	at.ka.pi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	ad.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔi.tsa.tk̠eo|na		0	1	1	0	0	0	0	0	1	7	4	1	3	2	0
-	at.kɑ.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.t͡sɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡøo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeoʔ|na		0	2	1	0	0	1	0	1	0	7	4	1	3	2	0
-	at.ka.ʔi.tx̠a.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔɪː.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡao|na		0	1	1	0	0	0	0	0	0	6	4	0	3	2	0
-	at.ka.ʔi.tsa.tɡəeo|na		0	1	1	0	0	0	0	1	0	6	4	2	3	2	0
-	at.ka.ʔi.tsɛ.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.ta.tɡeo|na		0	1	1	0	0	0	1	0	0	5	3	1	2	1	0
-	at.ka.ʔi.tsa.tɡo|na		0	1	1	0	0	0	1	0	0	6	4	0	3	2	0
-	aət.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	1	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.ɡeo|na		0	1	1	0	0	0	1	0	0	5	3	1	2	1	0
-	at.ɡ+͡ɣ+a.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ta.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	at.g͡ba.ʔi.tsa.tɡeo|na		0	1	1	1	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡɤo|na		0	1	1	0	0	0	0	0	0	6	4	0	3	2	0
-	at.ka.ʔi.tsa.tɡeːo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.k+i.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeʊ|na		1	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tx+a.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.tsa.tɡ͡ɣeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tza.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔi.tsa.teo|na		0	1	1	0	0	0	1	0	0	6	4	1	2	1	0
-	at.ka.ʔi.td͡za.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔe.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡ̠̠͡ɣ̠eo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeɔː|na		0	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.ətɡeo|na		0	1	2	0	0	0	0	1	0	6	4	1	3	1	0
-	at.kæː.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	aʈ.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tɬa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tɸa.tɡeo|na		0	1	1	1	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.tsɤ.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsɨ.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.kə.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.k̠sa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.tsa.tɡeɞ|na		0	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɢ͡ʁeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡeɔ|na		0	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at͡ɬ.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔj.tsa.tɡeo|na		0	2	1	0	1	0	0	0	0	6	4	1	5	3	0
-	at.k͡pa.ʔi.tsa.tɡeo|na		0	1	1	1	0	0	0	0	0	6	4	1	3	2	0
-	a.ka.ʔi.tsa.tɡeo|na		0	0	1	0	0	0	1	0	0	5	3	1	2	2	0
-	ɘːt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.kɤ.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsɑː.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tθa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tk͡xeo|na		0	1	1	0	0	0	0	0	1	7	4	1	3	2	0
-	at.c͡ça.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	at.ka.ʔi.t͡ɬsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡɛo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	aq.ka.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.kɑː.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsɘː.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɢeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔəi.tsa.tɡeo|na		0	1	1	0	0	0	0	1	0	6	4	2	3	2	0
-	at.ka.ʔi.tsa.tɣeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡew|na		1	2	1	0	0	1	0	0	0	6	4	0	3	2	0
-	at.ka.ʔɛ.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	t.ka.ʔi.tsa.tɡeo|na		0	1	0	0	0	0	1	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.tɡeɵ|na		0	1	1	0	0	1	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tŋ+eo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.təsa.tɡeo|na		0	1	1	0	0	0	0	1	0	6	4	1	2	1	0
-	ʌt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.tɡəo|na		0	1	1	0	0	0	0	0	0	6	4	0	3	2	0
-	at.ka.ʔi.t̪͡θsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔiʔ.tsa.tɡeo|na		0	2	1	0	0	0	0	1	0	7	4	1	4	2	0
-	at.ka.ʔɪ.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ʔka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	1	0	7	4	1	4	3	0
-	at.ka.ʔi.tt̪͡s̪a.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ɡ̠a.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔi.tsa.tɣ̠ eo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tg͡beo|na		0	1	1	1	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɖeo|na		1	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	ɨt.ka.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.pa.ʔi.tsa.tɡeo|na		1	1	1	1	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tbeo|na		1	1	1	1	0	0	0	0	0	6	4	1	3	2	0
-	at.əka.ʔi.tsa.tɡeo|na		0	1	2	0	0	0	0	1	0	6	4	1	2	2	0
-	at.ka.ʔeː.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	ət.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tse.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.kəː.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.qɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.x+a.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.ʈɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsaə.tɡeo|na		0	1	1	0	0	0	0	1	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.pɡeo|na		0	1	1	1	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.tsa.tɡɪo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.kəa.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	1	0	6	4	1	3	2	0
-	at.k̠͡x̠a.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʈi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	ɛt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.tɡɰo|na		1	1	1	0	0	0	0	0	0	6	4	0	4	2	0
-	at.ka.qi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	əːt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.ka.ʔi.tsa.tɡjo|na		1	1	1	0	0	0	0	0	0	6	4	0	4	2	0
-	at.ka.ʔi.tsa.tɉeo|na		0	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	əat.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	1	0	6	4	1	3	2	1
-	at.ka.i.tsa.tɡeo|na		0	1	2	0	0	0	1	0	0	5	4	2	3	2	0
-	at.kaː.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsʌ.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡɨo|na		1	1	1	0	0	0	0	0	0	6	4	0	3	2	0
-	at.ka.ʔi.tsa.ɖɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡɘːo|na		0	1	1	0	0	0	0	0	0	6	4	0	3	2	0
-	at.ka.ʔi.tʐa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	ap.ka.ʔi.tsa.tɡeo|na		0	1	1	1	0	0	0	0	0	6	3	1	3	2	0
-	at.ʔa.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at͡s.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.kɘː.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.p͡tɡeo|na		0	1	1	1	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tceo|na		0	1	1	0	0	0	0	0	1	7	5	1	3	2	0
-	at.ka.ʔi.tsa.tɡeoə|na		0	1	1	0	0	1	0	1	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tʔɡeo|na		0	1	1	0	0	0	0	1	0	7	4	1	4	2	0
-	at.ka.ʔi.tɕa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.ʈsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.kʔa.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	1	0	7	4	1	4	3	0
-	at.ke.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡe|na		0	1	1	0	0	1	1	0	0	6	4	0	3	2	0
-	at.ka.ʔi.tsa.tɡeʔo|na		0	1	1	0	0	0	0	1	0	7	4	0	3	2	0
-	at.ka.ʔi.tsəa.tɡeo|na		0	1	1	0	0	0	0	1	0	6	4	1	3	2	0
-	at.kɨ.ʔi.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ki.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.t͡ssa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.kaə.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	1	0	6	4	1	3	2	0
-	at.ka.ʔi.qsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ka.ʔi.tsa.tdeo|na		1	1	1	0	0	0	0	0	0	6	5	1	3	2	0
-	at.ka.ʔi.tsa.tk̠͡x̠eo|na		0	1	1	0	0	0	0	0	1	7	4	1	3	2	0
-	at.ka.ʔi.p͡tsa.tɡeo|na		0	1	1	1	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tkeo|na		0	1	1	0	0	0	0	0	1	7	4	1	3	2	0
-	at.ka.ʔi.tsa.tɡiːo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔy.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.k.ʔi.tsa.tɡeo|na		0	2	1	0	0	0	1	0	0	6	4	1	4	2	0
-	æt.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	1
-	at.x̠a.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tχa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	3	1	3	2	0
-	at.ɡ̠̠͡ɣ̠a.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	1	5	4	1	3	2	0
-	at.ka.k̠i.tsa.tɡeo|na		1	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsə.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tt͡sa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔiː.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔi.tsa.tŋeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at.ka.ʔɨ.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
-	at̪͡θ.ka.ʔi.tsa.tɡeo|na		0	1	1	0	0	0	0	0	0	6	4	1	3	2	0
+			Ident(high)	Ident(spread_gl)	Ident(long)	Ident(low)	Ident(front)	Ident(back)	Nocoda	Onset	Agree(LABIAL)	*Complex Coda	Align-R	Dep	Align-L	Max	Ident(voice)	*[+consonantal, -voice]	*[+consonantal, +CORONAL]	Agree(front)	*CC	*Complex Onset
+			Ident(high)	Ident(spread_gl)	Ident(long)	Ident(low)	Ident(front)	Ident(back)	Nocoda	Onset	Agree(LABIAL)	*Complex Coda	Align-R	Dep	Align-L	Max	Ident(voice)	*[+consonantal, -voice]	*[+consonantal, +CORONAL]	Agree(front)	*CC	*Complex Onset
+at.ka.ʔi.tsa.tɡeo	ka.ka.ʔi.tsa.dɡeo|na	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	oooad.ka.ʔe.t͡sa.dfao|na		2	0	0	2	1	0	1	1	1	0	0	3	1	1	3	4	3	0	2	1
+	at.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ha.ha.ha.ha.ha.ha.ha|na		2	4	0	3	2	3	0	0	0	0	1	5	1	4	1	0	0	0	0	0
+	at.cʰa.ʔi.tsa.tɡeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	æːt.ka.ʔi.tsa.tɡeo|na		0	0	1	0	1	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡjo|na		1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	0	4	2
+	at.ka.ʔi.tsaː.tɡeo|na		0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡɨo|na		1	0	0	0	1	0	1	1	0	0	0	0	0	0	0	6	4	0	3	2
+	ka.ka.ʔi.tsa.dk̠eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	at.ka.ʔi.tsɑ.tɡeo|na		0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡəeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	5	3	2	2	2
+	at.ka.əʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	2	0	0	0	1	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɢ͡ʁeo|na		1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.qi.tsa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.k+͡x+ʰa.ʔi.tsa.tɡeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔɪ.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	c͡ça.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	at.ka.ʔi.tsa.t͡sɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔɪː.tsa.dɡeo|na		0	0	1	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tkʰeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	ka.ka.ʔi.tʈ͡ʂa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡeɔ|na		0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tʂʰa.dɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɣ̠ eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡeoə|na		0	0	0	0	0	0	0	0	0	0	1	2	1	1	1	5	3	1	2	2
+	ka.k̠͡x̠a.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dŋ+eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsɛ.tɡeo|na		0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ɡ+ʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	atʔ.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	7	4	1	4	2
+	ka.g͡ba.ʔi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	at.ka.ʔi.tsa.tɡeʔo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	0	3	2
+	at.ka.ʔi.tsa.tk̠͡x̠eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	at.kɨ.ʔi.tsa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɣeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.qʰa.ʔi.tsa.tɡeo|na		1	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dkʰeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	at.kæ.ʔi.tsa.tɡeo|na		0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡjo|na		1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	0	3	2
+	ɡ̠̠͡ɣ̠a.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	at.a.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	5	4	1	2	2
+	at.ka.ʔiə.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	2	3	2
+	ka.ka.ʔi.k+sa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	at.ka.ʔi.tsa.tɡe|na		0	0	0	0	0	0	1	1	0	0	1	0	0	1	0	6	4	0	3	2
+	at.ka.ʔəi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	2	3	2
+	at.ka.k+i.tsa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ca.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	ka.ka.ʔi.tsa.dɡeoː|na		0	0	1	0	0	0	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	at.kəa.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡeuː|na		1	0	1	0	0	0	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	2	1	5	3	0	2	2
+	ka.ka.ʔi.tsa.dd͡ʑeo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	ka.əka.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	1	0	0	0	1	1	0	2	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡæo|na		0	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsæ.tɡeo|na		0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tx̠a.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	kʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	x+a.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔj.tsa.dɡeo|na		0	0	0	0	0	0	1	0	0	1	0	1	1	1	1	5	3	1	4	3
+	k.ka.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	1	0	0	0	0	0	1	1	2	5	3	1	3	2
+	at.q͡χa.ʔi.tsa.tɡeo|na		1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɢʰeo|na		1	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tzʰa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.ta.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	5	3	1	2	1
+	at.ka.ʔi.ʔsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at͡ɬ.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.k͡xʰa.ʔi.tsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	k̠͡x̠a.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsɤ.tɡeo|na		0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡɤo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	0	2	2
+	g͡ba.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	ka.k͡pʰa.ʔi.tsa.dɡeo|na		1	1	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.dʰsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ka.ka.ʔi.tsɤ.dɡeo|na		0	0	0	1	0	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔɘ.tsa.dɡeo|na		1	0	0	0	1	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.pa.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.t͡ssa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsɨ.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	kɑ.ka.ʔi.tsa.dɡeo|na		2	0	0	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	at.ka.ʔi.tʐa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.tsəː.tɡeo|na		0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ɡ̠ʰa.ʔi.tsa.dɡeo|na		1	1	0	1	1	1	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	at.t͡ɕa.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	ka.ɡ+ʰa.ʔi.tsa.dɡeo|na		1	1	0	1	1	1	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	ka.ka.ʔi.tsa.d͡ɮɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ɢa.ʔi.tsa.tɡeo|na		1	0	0	0	1	1	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.tsa.pɡeo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	6	3	1	3	2
+	ka.ka.ʔi.tsa.ʔdɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	0	6	3	1	3	2
+	at.ka.ʔi.tsa.tɡɪo|na		1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tx+a.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.xa.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ta.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	pa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡæo|na		0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.kɛ.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.ka.pi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.kʌ.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.ddeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	at.ka.ʔʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	1	4	3
+	at.ka.ʔi.tsa.tɡæːo|na		0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tɬa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.xa.ʔi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔ.tsa.tɡeo|na		0	0	0	0	0	0	2	1	0	0	0	0	0	1	0	6	4	1	4	2
+	ka.ka.ʔi.tsa.dŋ˗eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.kɑː.ʔi.tsa.tɡeo|na		0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɉeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	ka.ca.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	at.ʔa.ʔi.tsa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.qi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ɡ̠ʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	ɑːt.ka.ʔi.tsa.tɡeo|na		0	0	1	0	0	1	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	kaʔ.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	6	3	1	3	2
+	ka.ka.ʔi.tsa.dŋeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	əat.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	6	4	1	3	2
+	ka.cʰa.ʔi.tsa.dɡeo|na		1	1	0	1	1	1	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	aʔ.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.ka.ʔi.tsa.tɡ+ʰeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tt̪͡s̪a.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.ətsa.tɡeo|na		0	0	0	0	0	0	1	2	0	0	0	1	0	0	0	6	4	2	3	1
+	ɡʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	ɡ̠a.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	ka.kɨ.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡeɵ|na		0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	at.ka.ʔeː.tsa.tɡeo|na		1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.kaː.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.k͡xa.ʔi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.kə.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.ɢa.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	ka.c͡ça.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	ka.ka.ʔi.tsa.dɡøo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.p͡tɡeo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsɑː.dɡeo|na		0	0	1	0	0	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡɛːo|na		0	0	1	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡɛːo|na		0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tk̠ʰeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	adʰ.ka.ʔi.tsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	x̠a.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡiːo|na		1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.i.tsa.tɡeo|na		0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	5	4	2	3	2
+	at.ka.ʔi.tsa.tqeo|na		1	0	0	0	1	1	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	at.ka.ʔi.tsa.tɣ̠ eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡɛo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ʈa.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	ka.ka.ʔi.tsa.dɡeɵ|na		0	0	0	0	0	1	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	at.ca.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	ka.ka.ʔi.təsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	5	3	1	1	1
+	ka.ka.k̠i.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	at.ka.ʔi.tʈ͡ʂa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tʂʰa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡeəo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	1	3	2
+	aʔt.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	7	4	1	4	2
+	kɘː.ka.ʔi.tsa.dɡeo|na		2	0	1	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	ka.ka.ʔi.tsa.bɡeo|na		0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	5	2	1	2	2
+	at͡s.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	atʰ.ka.ʔi.tsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.ɖsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ka.ka.ʔi.tsa.dʰɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tza.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	ʔa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ət.ka.ʔi.tsa.tɡeo|na		0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	at.ka.ʔi.ʔtsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	1	4	2
+	at.ka.ʔi.tsa.tʔɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	1	4	2
+	at.ka.ʔi.txa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	ka.ka.ʔi.tsə.dɡeo|na		0	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔɯ.tsa.dɡeo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.qʰa.ʔi.tsa.dɡeo|na		1	1	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡeoː|na		0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tɸa.tɡeo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	6	3	1	3	2
+	ka.ɡ+͡ɣ+a.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	ka.ka.ʔi.tχa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	at.kɑ.ʔi.tsa.tɡeo|na		0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dəɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	5	3	1	1	1
+	kɘ.ka.ʔi.tsa.dɡeo|na		2	0	0	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	at.kɘː.ʔi.tsa.tɡeo|na		0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.ts.tɡeo|na		0	0	0	0	0	0	2	1	0	1	0	0	0	1	0	6	4	1	4	2
+	ka.ka.ʔi.tsa.d͡zɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tθa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	cʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	ka.ka.ʔ.tsa.dɡeo|na		0	0	0	0	0	0	1	0	0	0	0	1	1	2	1	5	3	1	3	2
+	k+͡x+a.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.psa.dɡeo|na		0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	5	2	1	2	2
+	qʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.k͡xʰa.ʔi.tsa.dɡeo|na		1	1	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	kə.ka.ʔi.tsa.dɡeo|na		2	0	0	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	ka.ka.ʔi.tsaʔ.dɡeo|na		0	0	0	0	0	0	1	0	0	0	0	2	1	1	0	6	3	1	3	2
+	at.ka.ʔi.tsæː.tɡeo|na		0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡɤo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	0	3	2
+	ka.x+a.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tɬa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tħa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.ka.ʔi.tsa.ətɡeo|na		0	0	0	0	0	0	1	2	0	0	0	1	0	0	0	6	4	1	3	1
+	ka.ka.ʔi.tsa.dɡeø|na		0	0	0	0	1	1	0	0	0	0	1	1	1	1	1	5	3	0	2	2
+	at.ɡʰa.ʔi.tsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.tsa.kɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.kʔa.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	1	4	3
+	ʈa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	kʔa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	6	3	1	3	3
+	ka.k̠͡x̠ʰa.ʔi.tsa.dɡeo|na		1	1	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.kəa.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɢʰeo|na		1	1	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɣ+eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsəa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡeɒː|na		0	0	1	1	0	0	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	a.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡeɞ|na		0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡ+͡ɣ+eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡəo|na		0	0	0	0	1	0	0	0	0	0	0	1	1	1	1	5	3	0	2	2
+	at.ka.ʔi.tsa.tɡəo|na		0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	6	4	0	3	2
+	at.ka.ʔi.tsa.ʈɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tχa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	ka.ka.ʔi.tsa.nɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡ̠̠͡ɣ̠ʰeo|na		0	1	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔɘ.tsa.tɡeo|na		1	0	0	0	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.kɘː.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.ka.ʔɰ.tsa.dɡeo|na		0	0	0	0	1	1	1	0	0	1	0	1	1	1	1	5	3	1	4	3
+	xa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɢeo|na		1	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.ʔsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	ka.ka.ʔi.tsa.dɡ̠ʰeo|na		0	1	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔʰi.tsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tse.tɡeo|na		0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɣ+eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	kæ.ka.ʔi.tsa.dɡeo|na		2	0	0	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	ka.ka.ʔi.tsa.ədɡeo|na		1	0	0	1	1	1	0	1	0	0	0	2	1	1	1	5	3	1	2	1
+	ka.ka.ʔi.tsa.ɖʰɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔiʔ.tsa.tɡeo|na		0	0	0	0	0	0	2	1	0	0	0	1	0	0	0	7	4	1	4	2
+	ka.ka.ʔi.tsa.dɡeɞ|na		0	0	0	0	0	1	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	ke.ka.ʔi.tsa.dɡeo|na		2	0	0	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	ka.kæ.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tbeo|na		1	0	0	1	0	0	1	1	1	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tse.dɡeo|na		0	0	0	1	1	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.t͡ɬsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔɪː.tsa.tɡeo|na		0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔiː.tsa.tɡeo|na		0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tk+eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	ka.ka.ʔi.t͡ssa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	aʈʰ.ka.ʔi.tsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	kɑː.ka.ʔi.tsa.dɡeo|na		2	0	1	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	at.ka.ʔi.tt͡sʰa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tʰɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɣeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.k̠ʰa.ʔi.tsa.dɡeo|na		1	1	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	6	3	1	2	2
+	ka.ka.ʔi.tsa.dɖeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	at.ka.ʔi.dsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ka.ka.ʔɛ.tsa.dɡeo|na		1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at̪͡θ.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔy.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	əːt.ka.ʔi.tsa.tɡeo|na		0	0	1	1	0	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	ka.a.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	1	0	0	0	1	1	2	1	4	3	1	2	2
+	ka.ka.əʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	1	0	0	0	3	1	2	1	5	3	1	2	2
+	at.ka.ʔi.tsʰa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	kæː.ka.ʔi.tsa.dɡeo|na		2	0	1	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	ka.ka.ʔi.tɸa.dɡeo|na		0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	5	2	1	2	2
+	at.ka.ʔi.tsa.tk+͡x+eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	k͡pa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ti.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	ka.ka.ʔi.ʈʰsa.dɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.b͡dɡeo|na		0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡɨo|na		1	0	0	0	1	0	0	0	0	0	0	1	1	1	1	5	3	0	2	2
+	ka.ka.ʔi.td͡za.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	kʌ.ka.ʔi.tsa.dɡeo|na		2	0	0	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡeoʔ|na		0	0	0	0	0	0	1	0	0	0	1	2	1	1	1	6	3	1	2	2
+	ka.ka.ʔi.tsa.dɡeɵː|na		0	0	1	0	0	1	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	ʌt.ka.ʔi.tsa.tɡeo|na		0	0	0	1	0	1	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	ɡ+͡ɣ+a.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	at.ka.ki.tsa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsʰa.dɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tʂa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	a.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	4	3	1	2	2
+	k+͡x+ʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	k͡xʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	aq.ka.ʔi.tsa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	ɘt.ka.ʔi.tsa.tɡeo|na		0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡio|na		1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsəː.dɡeo|na		0	0	1	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsʔa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	1	4	2
+	ka.ka.ʔi.tsa.dɡɘːo|na		0	0	1	0	1	0	0	0	0	0	0	1	1	1	1	5	3	0	2	2
+	ka.kʰa.ʔi.tsa.dɡeo|na		1	1	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡɘo|na		0	0	0	0	1	0	0	0	0	0	0	1	1	1	1	5	3	0	2	2
+	at.ka.ʔi.tsa.tceo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	7	5	1	3	2
+	at.k̠ʰa.ʔi.tsa.tɡeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡɘːo|na		0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	6	4	0	3	2
+	ap.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	6	3	1	3	2
+	ka.ka.ʔi.tsa.dɡeəo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	5	3	1	2	2
+	qa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.ɡ̠ɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	ka.ka.i.tsa.dɡeo|na		1	0	0	1	0	0	0	1	0	0	0	1	1	2	1	4	3	2	2	2
+	ka.ka.ʔi.p͡tsa.dɡeo|na		0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.k̠sa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	ka.k+ʰa.ʔi.tsa.dɡeo|na		1	1	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tg͡beo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tt͡sa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tʔsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	1	4	2
+	ka.ka.ʔi.tsa.dk͡peo|na		0	0	0	0	0	0	0	0	1	0	0	1	1	1	2	6	3	1	2	2
+	ɢa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	at.ka.ʔi.ʈʰsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɉʰeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	ka.ka.ʔi.tsa.dɡeːo|na		0	0	1	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dk+ʰeo|na		0	1	0	0	1	1	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	at.ka.ʔi.tsa.teo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	6	4	1	2	1
+	ka.ka.ʔi.tsa.dɡeɒ|na		0	0	0	1	0	0	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡiːo|na		1	0	1	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ke.ʔi.tsa.tɡeo|na		0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡ͡ɣeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ɉa.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	5	5	1	3	2
+	ka.ka.ʔi.tsa.d̪͡ðɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tʔsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	6	3	1	3	2
+	ka.ka.ʔiː.tsa.dɡeo|na		0	0	1	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.kʔa.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	6	3	1	3	3
+	ka.ka.ʔi.dsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	ka.ka.ʔi.tsa.ɖɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.k.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	2	1	0	0	0	0	0	1	0	6	4	1	4	2
+	ʔka.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	6	3	1	3	3
+	at.ɡ+͡ɣ+a.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.tsa.tɡeɒː|na		0	0	1	1	0	0	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dkeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	at.kɛ.ʔi.tsa.tɡeo|na		0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dceo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	2	6	4	1	2	2
+	ka.ka.ʔi.tt͡sʰa.dɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.k͡xa.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	aɖ.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ka.ka.ʔi.tsa.dk̠ʰeo|na		0	1	0	0	1	1	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	at.ka.ʔi.tx̠a.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	ka.ka.ʔi.tsa.dg͡bʰeo|na		0	1	0	0	0	0	0	0	1	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.p͡tsa.tɡeo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	6	4	1	3	2
+	at.kɤ.ʔi.tsa.tɡeo|na		0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɉ͡ʝeo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	at.ɡ+ʰa.ʔi.tsa.tɡeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔe.tsa.tɡeo|na		1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡ+ʰeo|na		0	1	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔɪ.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	kɛ.ka.ʔi.tsa.dɡeo|na		2	0	0	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	ka.ka.ʔi.ksa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	at.kaː.ʔi.tsa.tɡeo|na		0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ʈa.ʔi.tsa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	at.ka.ʔi.tsa.ʔɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	ka.ka.ʔi.tsa.ɡ+ɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	ɡa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	ka.ka.ʔi.tsa.dk̠͡x̠eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	ka.ka.ʔi.tsa.dk+͡x+eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	ka.ka.ʔi.tsa.dɉʰeo|na		0	1	0	0	1	1	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	at.ka.ʔi.tsʌ.tɡeo|na		0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.t͡ɬsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.deo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	2	1	5	3	1	1	1
+	at.ka.ʔi.tsa.k̠ɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.ka.ʔi.tsa.tɡeoə|na		0	0	0	0	0	0	1	1	0	0	1	1	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.ɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	5	3	1	2	1
+	ka.ɉa.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	2	4	4	1	2	2
+	ka.ka.ʔi.tzʰa.dɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	at.ɡ+a.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.ksa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	ka.k+͡x+a.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔæ.tsa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡeɒ|na		0	0	0	1	0	0	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	at.pa.ʔi.tsa.tɡeo|na		1	0	0	1	0	0	1	1	1	0	0	0	0	0	0	6	4	1	3	2
+	at.k̠͡x̠ʰa.ʔi.tsa.tɡeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ti.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	3	1	3	1	5	4	1	2	2
+	ka.kæː.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.ka.ʔi.ɖsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	ka.ka.ʔi.tsa.dɡ͡ɣʰeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡeɔː|na		0	0	1	0	0	0	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dqeo|na		1	0	0	0	1	1	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	at.ka.ʔi.tsa.tɡəeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	2	3	2
+	at.ka.ʔi.k+sa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.ka.ʔi.tsɘ.tɡeo|na		0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	aʈ.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡeɔ|na		0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	əka.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	1	0	0	0	2	1	1	1	5	3	1	2	2
+	kaə.ka.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	0	2	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡɰo|na		1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	0	4	2
+	at.ka.ʔi.tsa.tɡeø|na		0	0	0	0	1	1	1	1	0	0	1	0	0	0	0	6	4	0	3	2
+	ka.ɡ͡ɣa.ʔi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	at.ka.ʔi.tsa.tk+ʰeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	at.ka.ʔi.tt̪͡s̪a.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɉeo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	ta.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	ka.ka.ʔi.tsa.dɡɪo|na		1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɢ͡ʁeo|na		1	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔeː.tsa.dɡeo|na		1	0	1	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tθa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡ+͡ɣ+eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔæ.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.q͡χa.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tt͡sa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsaə.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	2	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡøo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsɛ.dɡeo|na		0	0	0	1	1	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.k+i.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɢeo|na		1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡe|na		0	0	0	0	0	0	0	0	0	0	1	1	1	2	1	5	3	0	2	2
+	ka.ke.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	at.g͡ba.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	1	5	4	1	3	2
+	ka.kɑ.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.ʔka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	6	3	1	3	3
+	at.k͡pʰa.ʔi.tsa.tɡeo|na		0	1	0	0	0	0	1	1	1	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.psa.tɡeo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	6	3	1	3	2
+	at.ka.ʔi.tʃa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ɉa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	4	1	2	2
+	ka.ka.ʔi.tsa.ɢɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	aːt.ka.ʔi.tsa.tɡeo|na		0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsʌ.dɡeo|na		0	0	0	1	0	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsæː.dɡeo|na		0	0	1	0	1	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	æt.ka.ʔi.tsa.tɡeo|na		0	0	0	0	1	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	at.ka.ʔi.k̠sa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.ka.ʔi.tsə.tɡeo|na		0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.tʰɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	0	6	3	1	2	2
+	ka.ka.ʔi.tsa.dɡio|na		1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.kaʔ.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	1	0	0	0	0	3	1	2	1	6	3	1	3	2
+	ka.x̠a.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.txa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	ka.ka.ʔi.tʐa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	at.ka.ʔi.td͡za.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ka.ka.ʔəi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	5	3	2	2	2
+	ka.ka.ki.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.ka.ʔi.qsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	at.ka.ʔi.tsa.təɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	1	2	1
+	ka.ka.ʔi.tsa.dg͡beo|na		0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	5	3	1	2	2
+	at.k͡pa.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.qsa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	ka.qa.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ɡa.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ka.ka.ʔi.tsa.dɡeʉ|na		1	0	0	0	0	1	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	ka.ɡ+a.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	at.ka.ʔi.tsa.tɉ͡ʝeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	ka.ka.ʔi.tsɑ.dɡeo|na		0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔɯ.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tħa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	ka.ka.ʔi.tsa.dɡʰeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.k̠͡x̠a.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.ts.dɡeo|na		1	0	0	1	1	1	1	0	0	1	0	1	1	2	0	5	3	1	3	2
+	at.ka.ʔi.tʰsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.t͡ɕa.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	at.ka.ʔi.tsa.tk͡peo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	1	7	4	1	3	2
+	ka.ka.ʔɨ.tsa.dɡeo|na		0	0	0	0	1	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tza.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ka.ka.ʔe.tsa.dɡeo|na		1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.ta.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	2	1	4	2	1	1	1
+	ka.ka.ʔi.tsa.dɡeɤ|na		0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.t̪͡θsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	kɨ.ka.ʔi.tsa.dɡeo|na		2	0	0	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	at.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ka.ka.ʔɨː.tsa.dɡeo|na		0	0	1	0	1	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsɘ.dɡeo|na		0	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tʰsa.dɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.kʌ.ʔi.tsa.tɡeo|na		0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.t̪͡θɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡeʔo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	6	3	0	2	2
+	at.ka.ʔi.tsa.tɡ+͡ɣ+ʰeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	et.ka.ʔi.tsa.tɡeo|na		0	0	0	1	1	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡeɤ|na		0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	at.kæː.ʔi.tsa.tɡeo|na		0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsəa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.ʔtsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	6	3	1	3	2
+	kaː.ka.ʔi.tsa.dɡeo|na		2	0	1	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡɰo|na		1	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	0	3	2
+	ka.ka.ʔi.tsa.ɡɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	at.ka.ʔi.tsa.tɡeuː|na		1	0	1	0	0	0	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsɨ.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.pi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	6	4	0	3	2
+	ka.kɘ.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	at.kaə.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	1	3	2
+	ka.ka.ʔiə.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	5	3	2	2	2
+	ka.k͡pa.ʔi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tdeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	ka.kaə.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	3	1	2	1	5	3	1	2	2
+	at.ka.ʔi.tsa.t͡ɬɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.kəː.ʔi.tsa.tɡeo|na		0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ɑt.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	1	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	ka.kɤ.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ɡ+a.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	ka.ka.ʔi.tsʔa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	6	3	1	3	2
+	at.ka.ʔi.tʂa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.əka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	2	0	0	0	1	0	0	0	6	4	1	2	2
+	at.kʰa.ʔi.tsa.tɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡeʊ|na		1	0	0	0	0	0	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	at.k+ʰa.ʔi.tsa.tɡeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ɤt.ka.ʔi.tsa.tɡeo|na		0	0	0	1	0	1	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.ɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	2	0	5	2	1	1	1
+	ɛt.ka.ʔi.tsa.tɡeo|na		0	0	0	1	1	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	ka.ka.ʈi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	2	1	2	1	5	4	1	2	2
+	ka.ka.ʔi.tsa.dɡao|na		0	0	0	1	1	0	0	0	0	0	0	1	1	1	1	5	3	0	2	2
+	at.ka.ʔi.tsa.tɡ̠̠͡ɣ̠ʰeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.ʈsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ak̠.ka.ʔi.tsa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.ka.ʔi.tsa.tɡeɔː|na		0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡ̠̠͡ɣ̠eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.qɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	t͡ɕa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	4	1	2	2
+	ka.ʔa.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ɨt.ka.ʔi.tsa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	at.ka.ʔi.tɕa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔy.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ak+.ka.ʔi.tsa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.ka.ʔi.ʈsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsɘː.tɡeo|na		0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡao|na		0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	6	4	0	3	2
+	at.ka.ʔi.tsa.tɡeʉ|na		1	0	0	0	0	1	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡew|na		1	0	0	0	0	0	2	1	0	0	1	0	0	0	0	6	4	0	3	2
+	ka.ka.ʔi.tsa.dʔɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	6	3	1	3	2
+	ɡ͡ɣa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4	3	1	2	2
+	ka.k.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	1	0	0	0	0	1	1	2	1	5	3	1	3	2
+	at.k+͡x+a.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tx+a.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	2	1	2	2
+	ka.ka.ʔi.tsa.dɡæːo|na		0	0	1	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	k+ʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.qa.ʔi.tsa.tɡeo|na		1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ɡ̠̠͡ɣ̠a.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	ka.ka.ʔʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	3	1	2	1	6	3	1	3	3
+	at.ka.ʔi.tsa.ɖɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔj.tsa.tɡeo|na		0	0	0	0	0	0	2	1	0	1	0	0	0	0	0	6	4	1	5	3
+	k̠ʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsɘː.dɡeo|na		0	0	1	1	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.k+͡x+ʰa.ʔi.tsa.dɡeo|na		1	1	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsaː.dɡeo|na		0	0	1	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡew|na		1	0	0	0	0	0	1	0	0	0	1	1	1	1	1	5	3	0	2	2
+	ka.ka.ʔi.tsa.dk͡xeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	at.ka.ʔɨː.tsa.tɡeo|na		0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsaə.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.td͡ʑeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	ka.ka.ʔi.tɕa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔɨ.tsa.tɡeo|na		0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dk+eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	2	6	3	1	2	2
+	at.ta.ʔi.tsa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	at.kə.ʔi.tsa.tɡeo|na		0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tʃa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.x̠a.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	k͡xa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ɡa.ʔi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	ka.ka.ʔi.t̪͡θsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ɡ̠a.ʔi.tsa.dɡeo|na		1	0	0	1	1	1	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	at.ka.ʔi.tsa.tɖeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	kəː.ka.ʔi.tsa.dɡeo|na		2	0	1	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	at.x+a.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	k͡pʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡeu|na		1	0	0	0	0	0	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	ka.ɡʰa.ʔi.tsa.dɡeo|na		1	1	0	1	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	at.ka.ʔi.tsa.tŋ˗eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.sa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	2	1	4	2	1	1	1
+	ɘːt.ka.ʔi.tsa.tɡeo|na		0	0	1	1	0	0	1	1	0	0	0	0	1	0	0	6	4	1	3	2
+	at.kɘ.ʔi.tsa.tɡeo|na		0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʈi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	ka.ka.ʔiʔ.tsa.dɡeo|na		0	0	0	0	0	0	1	0	0	0	0	2	1	1	1	6	3	1	3	2
+	at.ɡ̠a.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.tsaʔ.tɡeo|na		0	0	0	0	0	0	2	1	0	0	0	1	0	0	0	7	4	1	4	2
+	ad.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ka.ka.ʔi.ətsa.dɡeo|na		0	0	0	0	0	0	0	1	0	0	0	2	1	1	1	5	3	2	2	1
+	at.ka.ʔi.tsɑː.tɡeo|na		0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡ͡ɣeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡʰeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡʔeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	6	3	1	3	2
+	ka.ka.ʔi.tsa.dɡeʊ|na		1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	at.ka.k̠i.tsa.tɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	q͡χa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔɰ.tsa.tɡeo|na		0	0	0	0	1	1	2	1	0	1	0	0	0	0	0	6	4	1	5	3
+	at.ka.ʔi.tsa.dʰɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.tsa.tk̠eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	at.ka.ʔi.tsa.tɡɛo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.ʈɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	6	3	1	2	2
+	at.ka.ʔi.tsa.tŋ+eo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	atə.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	6	4	1	2	2
+	at.ka.ʔi.tsa.tk͡xeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	kɤ.ka.ʔi.tsa.dɡeo|na		2	0	0	2	2	2	0	0	0	0	0	0	1	0	3	5	3	1	2	2
+	ka.kəː.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	k̠͡x̠ʰa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsæ.dɡeo|na		0	0	0	0	1	0	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡʔeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	1	4	2
+	at.ka.ʔi.tsa.tɡeɵː|na		0	0	1	0	0	1	1	1	0	0	1	0	0	0	0	6	4	1	3	2
+	kəa.ka.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tɡ͡ɣʰeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ʔka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	1	4	3
+	ka.ka.ʔi.tsa.dɡ̠̠͡ɣ̠eo|na		0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	at.ka.ʔi.tsa.tkeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	7	4	1	3	2
+	at.ɡ̠̠͡ɣ̠a.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	ak.ka.ʔi.tsa.tɡeo|na		1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.ɡ̠ʰa.ʔi.tsa.tɡeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.tsa.ʈʰɡeo|na		0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔʰi.tsa.dɡeo|na		1	0	0	1	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	ka.kɑː.ʔi.tsa.dɡeo|na		0	0	0	0	0	0	0	0	0	0	0	2	1	2	1	5	3	1	2	2
+	at.ka.ʔi.sa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	5	3	1	2	1
+	at.ka.ʔi.tsa.tg͡bʰeo|na		0	1	0	0	0	0	1	1	1	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.dʰsa.dɡeo|na		0	1	0	0	0	0	0	0	0	0	0	1	1	1	2	4	3	1	2	2
+	at.ɡ͡ɣa.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	5	4	1	3	2
+	at.ka.ʔi.tsa.tɡɘo|na		0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	6	4	0	3	2
+	at.ka.ʔi.tsa.k+ɡeo|na		1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	6	3	1	3	2
+	at.ka.ʔi.tsa.tɡeːo|na		0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	at.ka.ʔi.tsa.tɡ̠ʰeo|na		0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dbeo|na		1	0	0	1	0	0	0	0	1	0	0	1	1	1	1	5	3	1	2	2
+	ka.ka.ʔi.tsa.dɡeu|na		1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	5	3	1	2	2
+	t.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	6	4	1	3	2
+	at.ka.ʔi.təsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	1	2	1
+	aət.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	6	4	1	3	2
+	at.ka.ʔɛ.tsa.tɡeo|na		1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2
+	ap͡t.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	6	4	1	3	2
+	ka.ka.ʔi.tsa.dɡ+͡ɣ+ʰeo|na		0	1	0	0	1	1	0	0	0	0	0	1	1	1	1	5	3	1	2	2
+	ʔat.ka.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	7	4	1	3	2
+	at.kaʔ.ʔi.tsa.tɡeo|na		0	0	0	0	0	0	2	1	0	0	0	1	0	0	0	7	4	1	4	2
+	at.ka.ʔi.tsa.ʔtɡeo|na		0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	7	4	1	4	2
+	at.ka.ʔi.tsa.tɡeoʔ|na		0	0	0	0	0	0	2	1	0	0	1	1	0	0	0	7	4	1	3	2
+	at.c͡ça.ʔi.tsa.tɡeo|na		0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	6	5	1	3	2
+	at.ka.ʔi.tsa.tŋeo|na		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	6	4	1	3	2

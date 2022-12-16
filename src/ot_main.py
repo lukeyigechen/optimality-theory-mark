@@ -144,10 +144,16 @@ def process_single(item_in, dict_phone_encode, dict_phone_decode, dict_feat, out
     #print(mark_pairs)
     list_rcd_ranked = rcd_ranking(constraint_list, mark_pairs)
     list_str_ranked_out = []
+    is_challenged = False
     for sublist_cons in list_rcd_ranked:
-        list_str_ranked_out.append('{' + ', '.join(sublist_cons) + '}')
+        if len(sublist_cons) > 0:
+            list_str_ranked_out.append('{' + ', '.join(sublist_cons) + '}')
+        else:
+            is_challenged = True
     str_ranked_out = ' > '.join(list_str_ranked_out)
-    str_ranked_out = 'item ' + str(item_in.index) + ': ' + str_ranked_out
+    str_ranked_out = 'Item ' + str(item_in.index) + ': ' + str_ranked_out
+    if is_challenged:
+        str_ranked_out += '\nItem ' + str(item_in.index) + ' is successfully challenged by other candidates. Please consider adding other constraints.'
     print(str_ranked_out)
     print('-------------------------------------------------------------------------')
 

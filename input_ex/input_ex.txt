@@ -25,7 +25,7 @@ mark_feat	consonantal:+,voice:-	consonantal:+,CORONAL:+
 item_id = 1
 ur	at
 sr	at
-candidates	a	ta	tat
+#candidates	a	ta	tat
 generate	True
 ident_feat	voice
 agree_feat	voice|syllabic:-
@@ -47,6 +47,18 @@ sr	ŋan.ki.ɽi.ki.rim.pa.ji
 sr_stress	(p.n).n.(s.n).(s.n)
 candidates	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.pa.ji	ŋan.ki.ɽi.ki.rim.paː.ji
 candidates_stress	(p.n).(s.n).n.(s.n)	(p.n).(s.n).(s.n).n	(p.n).n.n.n.(s.n)	(p.n).n.n.n.n.n	n.(p.n).(s.n).(s.n)	(p.n).(s.n).(s.n).(s)	(n.p).n.(n.s).(n.s)
+generate	True
+ident_feat	voice	high
+agree_feat	LABIAL|syllabic:-	voice|syllabic:-
+mark_feat	consonantal:+,voice:-
+
+
+item_id = 4
+ur	nan.ki.ri.ki.rim.pa.ji
+sr	nan.ki.ri.ki.rim.pa.ji
+sr_stress	(p.n).n.(s.n).(s.n)
+candidates	nan.ki.ri.ki.rim.pa.ji	nan.ki.ri.ki.rim.ba.ji	nan.ki.ri.ki.rim.pi.ji
+candidates_stress	(p.n).(s.n).n.(s.n)	(p.n).(s.n).(s.n).n	(p.n).n.n.n.(s.n)
 generate	True
 ident_feat	voice	high
 agree_feat	LABIAL|syllabic:-	voice|syllabic:-
